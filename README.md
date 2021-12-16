@@ -4,4 +4,4 @@
 <p> 🌱 I’m currently learnff Front-End development</p>
 <p> 📫 Contact me on this
 e-mail: contatomartinsaline@gmail.com </p>
-<p> ☺️ Pronouns: she/her </p>
+<p> ☺️ Pronouns: she/dela</p>
