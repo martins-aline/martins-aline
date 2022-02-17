@@ -1,6 +1,6 @@
 <h2> Olá!! Sou a Aline </h2>
 <p> 👀 Estou interessada em estágios/trainee/remoto </p>
-<p> 🌱 Aprendendo HTML, CSS, Javascrip,Bootstrap, Git e GitHub</p>
+<p> 🌱 Aprendendo HTML, CSS, Javascrip,Bootstrap, Git e GitHub e Linux</p>
 <p> ☺️ Pronome: Ela/ Dela</p>
   
  
