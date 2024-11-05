@@ -1,4 +1,4 @@
-<h2> Olá!!! Sou a Aline </h2>
+<h2> Olá!!! </h2>
 <p> 👀 Estou interessada em desenvolvimento web trainee/remoto </p>
 <p> 🌱 Aprendendo HTML, CSS, Vanilla JavaScript, Versionamento de código e Linux</p>
 <p> ☺️ Pronome: Ela/ Dela</p>
