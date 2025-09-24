@@ -1,17 +1,17 @@
-# Olá! eu sou Aline
+<div>
+Hello! I'm Aline
 
-Desenvolvedora em formação, atualmente focada em Java. 
-Estudando, praticando e construindo aos poucos minha transição para a área tech.
+Aspiring developer with a strong interest in science, technology, and art. Currently focused on Java, I’m studying, practicing, and gradually building my transition into the tech field.
 
-Cursando último ano de **Análise e Desenvolvimento de Sistemas**.
+In my final year of Systems Analysis and Development, I’m aiming for part-time remote development opportunities.
 
-**Objetivo:** 🎯 desenvolvimento remoto e meio período.
+Currently learning:
 
-## Aprendendo:
-- Java
-- Programação Orientada a Objetos
-- Versionamento de código
+Java
 
+Object-Oriented Programming
+
+Version control
   <div/>
 <a href="https://www.linkedin.com/in/aline-martins-3b874b1a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href = "mailto:contatomartinsaline@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a> <br>
