@@ -1,4 +1,4 @@
-# Olá! 👋 Bem-vinda ao meu perfil
+# Olá! 👋 Bem-vindo(a) ao meu perfil
 
 <div align="center">
   <img src="https://img.shields.io/badge/Main-Data%20Engineering-critical?style=for-the-badge&logo=databricks&logoColor=white" />
