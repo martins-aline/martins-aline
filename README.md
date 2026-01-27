@@ -9,13 +9,13 @@
 
 ### ☕ Sobre mim:
 
-Mineira, apaixonada por **café, ciência, tecnologia e arte**. Sou formada em **Análise e Desenvolvimento de Sistemas** e, aprendendo **Engenharia de Dados**.
+Mineira, naturalmente apaixonada por **café e tecnologia** Também por Ciência e arte. Sou formada em **Análise e Desenvolvimento de Sistemas** pela universidade de Uberaba - Uniube, e agora estou aprendendo **Engenharia de Dados**.
 
 Construindo sobre uma base sólida minha transição de carreira, já que atualmente trabalho na área administrativa. 
 
 ---
 
-### 🛠️ Focada agora:
+### 🛠️ Hiperfoco:
 
 * **Engenharia de Dados** 📊
 * **Versionamento de código (Git)** 🌿
