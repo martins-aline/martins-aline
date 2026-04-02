@@ -1,4 +1,4 @@
-# Olá! 👋 Bem-vindo(a) ao meu perfil
+## Hey! 👋 Bem-vindo(a) ao meu perfil • Glad you're here!
 
 <div align="center">
   <img src="https://img.shields.io/badge/Main-Data%20Engineering-critical?style=for-the-badge&logo=databricks&logoColor=white" />
@@ -7,31 +7,17 @@
 
 ---
 
-### ☕ Sobre mim:
+### ☕ Sobre mim • About me:
 
-Mineira, naturalmente apaixonada por **café e tecnologia,** também por ciência e arte. Sou formada em **Análise e Desenvolvimento de Sistemas** pela universidade de Uberaba - Uniube. No momento estou aprendendo **Engenharia de Dados**.
-
-Construindo sobre uma base sólida minha transição de carreira, já que atualmente trabalho na área administrativa. 
-
----
-
-### 🛠️ Hiperfoco:
-
-* **Engenharia de Dados** 📊
-* **Versionamento de código (Git)** 🌿
+| Pt | En |
+| :--- | :--- |
+| Mineira, apaixonada por ciência, tecnologia, café, idiomas e arte (sim, e a lista continua 😅)| From Minas Gerais, Brazil. Passionate about science, technology, coffee, languages and art (yeah, the list goes on 😅) |
+| Formada em Análise e Desenvolvimento de Sistemas na Uniube. | Degree in Systems Analysis and Development from Uniube. |
+| Atualmente trabalho na área administrativa, estou familiarizada com rotinas organizacionais como mapeamento e padronização de processos, além de sistemas ERP e SAP. | Currently working in administration, I am familiar with organizational routines such as process mapping and standardization, as well as ERP and SAP systems. |
+| Sobre esses pilares estou construindo uma transição para área de tecnologia. | Based on these pillars, I am building my transition into the technology field. |
 
 ---
 
-### 🚀 Tecnologias e Ferramentas
+### 📫 Vamos nos conectar? • Let's connect!
 
-<div align="left">
-  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Lógica%20de%20Programação-00599C?style=for-the-badge&logo=algorithm&logoColor=white" />
-</div>
-
----
-
-### 📫 Vamos nos conectar?
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](SEU_LINK_DO_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/contatomartins-aline?utm_source=share_via&utm_content=profile&utm_medium=member_android)
